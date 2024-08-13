@@ -1,0 +1,25 @@
+.propa th {
+background-color: #BB86FC;
+color: white;
+padding: 10px;
+}
+
+.pcasa th {
+background-color:  #00C4B4;
+color: white;
+padding: 10px;
+}
+
+.productos td {
+background-color: #424250;
+color: white;
+padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid white
+}
+
+h1 {
+    font-size: 22px;
+}
